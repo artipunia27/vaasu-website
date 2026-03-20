@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artipunia27.github.io/vaasu-website/sitemap.xml
